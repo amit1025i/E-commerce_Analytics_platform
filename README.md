@@ -55,6 +55,18 @@ The application allows users to upload e-commerce datasets, clean and explore th
 - Download filtered data
 
 ---
+##  Dashboard Preview
+![pic1](assets/pic1.png)
+
+![pic2](assets/pic2.png)
+
+![pic3](assets/pic3.png)
+
+![pic4](assets/pic4.png)
+
+![pic5](assets/pic5.png)
+
+![pic6](assets/pic6.png)
 
 ##  Tech Stack
 
@@ -69,23 +81,6 @@ The application allows users to upload e-commerce datasets, clean and explore th
 | **xlrd** | Excel `.xls` file processing |
 
 ---
-##  Dashboard Preview
-![Data Studio](assets/pic1.png)
-
-### -------------------------------
-(assets/pic2.png)
-
-### Profit Analysis
-![Profit Analysis](assets/pic3.png)
-
-### Customer Analysis
-![Customer Analysis](assets/pic4.png)
-
-### Sales vs Profit Analysis
-![Sales vs Profit Analysis](assets/pic5.png)
-
-### Data Explorer
-![Data Explorer](assets/pic6.png)
 
 ##  Project Structure
 
