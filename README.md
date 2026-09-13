@@ -70,15 +70,13 @@ The application allows users to upload e-commerce datasets, clean and explore th
 
 ##  Tech Stack
 
-| Technology | Purpose |
-|---|---|
-| **Python** | Core programming language |
-| **Streamlit** | Interactive web application |
-| **Pandas** | Data manipulation and analysis |
-| **NumPy** | Numerical operations |
-| **Plotly** | Interactive data visualization |
-| **OpenPyXL** | Excel `.xlsx` file processing |
-| **xlrd** | Excel `.xls` file processing |
+ **Python** 
+ **Streamlit** 
+ **Pandas** 
+ **NumPy** 
+ **Plotly** 
+ **OpenPyXL** 
+ **xlrd** 
 
 ---
 
