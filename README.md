@@ -70,13 +70,13 @@ The application allows users to upload e-commerce datasets, clean and explore th
 
 ##  Tech Stack
 
- **Python** 
- **Streamlit** 
- **Pandas** 
- **NumPy** 
- **Plotly** 
- **OpenPyXL** 
- **xlrd** 
+ |**Python**| 
+ |**Streamlit**| 
+ |**Pandas**| 
+ |**NumPy**| 
+ |**Plotly**| 
+ |**OpenPyXL**| 
+ |**xlrd**| 
 
 ---
 
